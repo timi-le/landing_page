@@ -1,0 +1,34 @@
+{
+  "site": {
+    "name": "Timilehin Olapade",
+    "tagline": "Markets, machines & a curious mind.",
+    "motto": "Qui audet adipiscitur.",
+    "stage": "design_prototype",
+    "language": "en",
+    "sections": [
+      {"slug": "technology", "title": "Technology & Financial Transformation", "number": "01", "theme": "warm_engineering"},
+      {"slug": "research", "title": "Quantitative Research & Machine Learning", "number": "02", "theme": "dark_quant"},
+      {"slug": "ventures", "title": "Haldane & ATRX", "number": "03", "theme": "venture"},
+      {"slug": "culture", "title": "Music, Culture & Life", "number": "04", "theme": "sand_editorial"}
+    ],
+    "socialLinks": [
+      {"name": "GitHub", "url": "https://github.com/timi-le", "verifiedForLaunch": false},
+      {"name": "LinkedIn", "url": "https://www.linkedin.com/in/taolapade", "verifiedForLaunch": false},
+      {"name": "Google Scholar", "url": "https://scholar.google.com/citations?user=llOjrusAAAAJ", "verifiedForLaunch": false}
+    ]
+  },
+  "ventures": [
+    {"name": "Haldane Technologies Inc.", "website": "https://haldane.xyz/", "websiteVerifiedForLaunch": false, "description": "Enterprise technology and financial transformation", "status": "messaging_review_required"},
+    {"name": "ATRX", "website": "https://www.atrx.tech/", "websiteVerifiedForLaunch": false, "description": "Research-driven quantitative intelligence", "status": "messaging_review_required"}
+  ],
+  "candidateProjects": [
+    {"slug": "tax-process-automation", "title": "Tax process automation", "section": "technology", "status": "draft_case_study", "publicApproved": false},
+    {"slug": "financial-data-pipelines", "title": "SQL and Python financial data pipelines", "section": "technology", "status": "draft_case_study", "publicApproved": false},
+    {"slug": "e-invoicing", "title": "E-invoicing and enterprise integration", "section": "technology", "status": "draft_case_study", "publicApproved": false},
+    {"slug": "cmtf", "title": "Causal Macro Transmission Framework", "section": "research", "status": "research_direction", "publicApproved": false},
+    {"slug": "expert-routing", "title": "Identification-aware expert routing", "section": "research", "status": "research_direction", "publicApproved": false},
+    {"slug": "monte-carlo-geometry", "title": "Monte Carlo geometry", "section": "research", "status": "experiment", "publicApproved": false},
+    {"slug": "alpha-decay", "title": "Alpha decay and adaptive intelligence", "section": "research", "status": "research_direction", "publicApproved": false}
+  ],
+  "culture": {"playlists": [], "albums": [], "photography": [], "books": [], "journal": []}
+}
