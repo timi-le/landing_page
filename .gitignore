@@ -1,4 +1,4 @@
-assets/
+#assets/
 preview/
 content_inventory.md
 content_manifest.json
@@ -6,3 +6,4 @@ design_system.md
 fable_master_prompt.md
 venture_site_prompts.md
 README.md
+node_modules/
