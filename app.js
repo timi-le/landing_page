@@ -1,3 +1,5 @@
+import { SpeedInsights } from "@vercel/speed-insights/next"
+
 (function(){
   'use strict';
   const valid = new Set(['home','technology','research','ventures','culture','contact']);
